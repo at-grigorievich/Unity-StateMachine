@@ -1,5 +1,5 @@
 # Unity-StateMachine
-Simpte generic state machine pattern implementation (without enum)
+Simple generic state machine pattern implementation (without enum)
 
 # Installing:
 Installation is done using UPM:
