@@ -1,0 +1,22 @@
+{
+  "name": "com.atg.statemachine",
+  "version": "0.0.1",
+  "displayName": "ATG State Machine",
+  "description": "Simpte generic state machine pattern implementation (without enum)",
+  "unity": "2021.3",
+  "unityRelease": "8f1",
+  "documentationUrl": "https://github.com/at-grigorievich/Unity-Generic-StateMachine",
+  "changelogUrl": "https://github.com/at-grigorievich/Unity-Generic-StateMachine",
+  "licensesUrl": "https://github.com/at-grigorievich/Unity-Generic-StateMachine",
+  "dependencies": {},
+ "keywords": [
+    "statemachine",
+    "state pattern",
+    "non enum"
+  ],
+  "author": {
+    "name": "Alexander",
+    "email": "at.grigorievich@gmail.com",
+    "url": "https://github.com/at-grigorievich"
+  }
+}
